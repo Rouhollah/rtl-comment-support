@@ -3,6 +3,8 @@
 	"displayName": "RTL Comment Support",
 	"description": "With this extension you can leave comments for your code in right-to-left languages.",
 	"version": "1.0.0",
+	"publisher": "rouhollah-torshizi",
+	"license": "GPL-2.0 License",
 	"engines": {
 		"vscode": "^1.49.0"
 	},
@@ -20,7 +22,7 @@
 				"title": "RTL Comment"
 			}
 		],
-		"keybindings":[
+		"keybindings": [
 			{
 				"command": "rtl-comment-support",
 				"key": "F6"
@@ -47,5 +49,12 @@
 		"mocha": "^8.1.3",
 		"typescript": "^4.0.2",
 		"vscode-test": "^1.4.0"
-	}
+	},
+	"dependencies": {
+		"yarn": "^1.22.10"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Rouhollah/rtl-comment-support"
+	  }
 }
