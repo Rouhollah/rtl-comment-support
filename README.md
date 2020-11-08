@@ -2,7 +2,7 @@
 
 With this extension you can leave comments for your code in right-to-left languages like persian, arabic and etc.
 
-![feature X](instruction.gif)
+![feature X](https://raw.githubusercontent.com/Rouhollah/rtl-comment-support/main/instruction.gif)
 
 ## How to use
 1. open command palette (ctrl + shift + p Or F1) and write "RTL Comment" and press enter. no case sensitive.
