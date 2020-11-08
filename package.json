@@ -53,8 +53,14 @@
 	"dependencies": {
 		"yarn": "^1.22.10"
 	},
+	"bugs": {
+		"url": "https://github.com/Rouhollah/rtl-comment-support/issues",
+		"email": "torshizi1@gmail.com"
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Rouhollah/rtl-comment-support"
-	  }
+	},
+	"homepage": "https://github.com/Rouhollah/rtl-comment-support/blob/master/README.md",
+	"icon": "icon.png"
 }

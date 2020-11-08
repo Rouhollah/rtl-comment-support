@@ -32,4 +32,4 @@ Initial release of RTL Comment Support.
 [source code](https://github.com/Rouhollah/rtl-comment-support)
 -----------------------------------------------------------------------------------------------------------
 
-**Rouhollah Torshizi!**
+**Rouhollah Torshizi !**
