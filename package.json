@@ -56,5 +56,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Rouhollah/rtl-comment-support"
-	  }
+	},
+	"icon": "images/icon.png"
 }
