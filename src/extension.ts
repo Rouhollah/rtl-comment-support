@@ -11,6 +11,7 @@ export function activate(context: vscode.ExtensionContext) {
 		const result = await window.showInputBox({
 			value: '',
 			placeHolder: 'paste here or write your text, enjoy',
+			ignoreFocusOut: true , // keep input box while onclick outbox
 		});
 		let isRTLFormat = false;
 		let virtulArray = [];
