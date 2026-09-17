@@ -13,6 +13,8 @@ With this extension you can leave comments for your code in right-to-left langua
 ## Note
 you can paste result in any application like visual studio (all version) , notepad and etc.
 
+Numbers, including zero and multi-digit values, keep their original order next to English text.
+
 ## Key Binding
 
  shortcut key is F6
@@ -24,9 +26,9 @@ no requir anything.
 ## Known Issues
 At this time, there are no known issues. If you discover a bug or would like to see a shortcut added, please create a pull request at our GitHub page.
 
-## Version 1.0.0
+## Version 2.0.0
 
-Initial release of RTL Comment Support.
+Numbers are preserved in the correct position when RTL and English text are mixed.
 
 ## GitHub
 [source code](https://github.com/Rouhollah/rtl-comment-support)

@@ -2,7 +2,7 @@
 	"name": "rtl-comment-support",
 	"displayName": "RTL Comment Support",
 	"description": "With this extension you can leave comments for your code in right-to-left languages.",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"publisher": "rouhollah-torshizi",
 	"license": "GPL-2.0 License",
 	"engines": {
@@ -61,10 +61,6 @@
 		"type": "git",
 		"url": "https://github.com/Rouhollah/rtl-comment-support"
 	},
-<<<<<<< HEAD
-	"icon": "images/icon.png"
-=======
 	"homepage": "https://github.com/Rouhollah/rtl-comment-support/blob/master/README.md",
 	"icon": "icon.png"
->>>>>>> 4c20756bc5aa139f1170c6a444d1a36be064f8f7
 }
